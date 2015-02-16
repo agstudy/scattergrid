@@ -18,7 +18,8 @@ A using example is :
                 
 
 ## Install       
-
+    
+     library(devtools)
      install_github('agstudy/scattergrid')
 
 
