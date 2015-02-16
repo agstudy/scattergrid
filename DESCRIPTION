@@ -1,9 +1,10 @@
 Package: scattergrid
 Type: Package
-Title: What the package does (short line)
+Title: Add yz- and xz-grid to scatterplot3d
 Version: 1.0
 Date: 2015-02-16
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Amine Gassem <contact@ag-study.com>
+Maintainer: Amine Gassem <contact@ag-study.com>
+Description:  Add yz- and xz-grid to scatterplot3d. 
+              Extension to to scatterplot3d package.
+License: MIT
