@@ -22,8 +22,8 @@ The function `scatterplot3d()` from the scatterplot3d package only plots the gri
                     grid=c('xy','xz','yz'),  ## add grid to all facets
                 col.grid="lightblue")
                 
-
-
+![example][1]
+[1] :https://github.com/agstudy/scattergrid/blob/master/info/Rplot01.png
 
 
                 
